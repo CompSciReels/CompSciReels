@@ -1,5 +1,12 @@
 # 👨‍💻 CompSciReels
 
+**`Digital Innovator (Developer/Filmmaker/Creator)`**
+
+I'm an indie software developer passionate about sharing the joy of programming on a global scale. Across a diverse range of languages—from Visual Basic and C++ to C#, Java, and Swift—I craft projects that I open-source on GitHub. Each project inspires a new video, which I share on YouTube and TikTok.
+
+Beyond project showcases, I create educational content. My videos cover computer science concepts and practical lessons, available on both platforms. My singular mission is to democratize programming education, making it universally accessible.
+
+In addition, I offer resources on securing scholarships, selecting the right college, and generating programming project ideas. I equip young adults with the essential knowledge to thrive in the tech world early on, aiming to provide everyone with an invaluable head start they might not have otherwise received.
 <!--
 **CompSciReels/CompSciReels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
