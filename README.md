@@ -2,11 +2,9 @@
 
 **`Digital Innovator (Developer/Filmmaker/Creator)`**
 
-I'm an indie software developer passionate about sharing the joy of programming on a global scale. Across a diverse range of languages—from Visual Basic and C++ to C#, Java, and Swift—I craft projects that I open-source on GitHub. Each project inspires a new video, which I share on YouTube and TikTok.
+I'm an indie software developer dedicated to spreading the joy of programming worldwide. I create projects in languages like Visual Basic, C++, C#, Java, and Swift, and I share all my code on GitHub. Each project inspires a new video that I post on YouTube and TikTok.
 
-Beyond project showcases, I create educational content. My videos cover computer science concepts and practical lessons, available on both platforms. My singular mission is to democratize programming education, making it universally accessible.
-
-In addition, I offer resources on securing scholarships, selecting the right college, and generating programming project ideas. I equip young adults with the essential knowledge to thrive in the tech world early on, aiming to provide everyone with an invaluable head start they might not have otherwise received.
+I also make educational videos teaching computer science concepts on both platforms. My goal is to make programming education free and accessible to all. Additionally, I provide resources on scholarships, college choices, and programming project ideas, giving young adults the invaluable head start in tech they might not otherwise have received..
 <!--
 **CompSciReels/CompSciReels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
