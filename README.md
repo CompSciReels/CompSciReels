@@ -50,7 +50,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 <!-- BEGIN TIKTOK-CARDS -->
 [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
-<img width="25px" style="padding-right: 10px;"/>
+<img width="20px" style="padding-right: 10px;"/>
 [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 
 <!-- END YOUTUBE-CARDS -->
