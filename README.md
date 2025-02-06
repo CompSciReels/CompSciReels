@@ -23,6 +23,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
   <a href="https://github.com/CompSciReels?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CompSciReels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
 ---
 ### <img src="https://github.com/user-attachments/assets/4d490267-4e4c-417d-b130-acfd0819d559" width="25"/> Languages and Tools
 
