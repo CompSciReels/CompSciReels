@@ -49,10 +49,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 ### 📱 Greatest TikTok Videos
 
 <!-- BEGIN TIKTOK-CARDS -->
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610" data-video-id="7316730936979213610" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@comp.sci.reels" href="https://www.tiktok.com/@comp.sci.reels?refer=embed">@comp.sci.reels</a> How much does an app with a million downloads make? <a title="foryourpage" target="_blank" href="https://www.tiktok.com/tag/foryourpage?refer=embed">#foryourpage</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="redditstories" target="_blank" href="https://www.tiktok.com/tag/redditstories?refer=embed">#redditstories</a> <a title="minecraft" target="_blank" href="https://www.tiktok.com/tag/minecraft?refer=embed">#minecraft</a> <a title="programming" target="_blank" href="https://www.tiktok.com/tag/programming?refer=embed">#programming</a> <a title="reddit" target="_blank" href="https://www.tiktok.com/tag/reddit?refer=embed">#reddit</a> <a target="_blank" title="♬ original sound  - CompSciReels" href="https://www.tiktok.com/music/original-sound-CompSciReels-7316730986762980138?refer=embed">♬ original sound  - CompSciReels</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-
-
-
 
 [![Rust Immutability](https://ytcards.demolab.com/?id=WD6Ub-ensYs&title=Rust+Immutability&lang=en&timestamp=1738774838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "Rust Immutability")](https://www.youtube.com/watch?v=WD6Ub-ensYs)
 [![Why Devs Use Docker](https://ytcards.demolab.com/?id=ngLrCFL2h6U&title=Why+Devs+Use+Docker&lang=en&timestamp=1738602059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "Why Devs Use Docker")](https://www.youtube.com/watch?v=ngLrCFL2h6U)
