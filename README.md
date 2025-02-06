@@ -57,6 +57,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 [![NixOS Install in 1 Minute](https://ytcards.demolab.com/?id=M9qpl7wbbS0&title=NixOS+Install+in+1+Minute&lang=en&timestamp=1738076432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=63 "NixOS Install in 1 Minute")](https://www.youtube.com/watch?v=M9qpl7wbbS0)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="(https://custom-icon-badges.demolab.com/badge/FOLLOW-FOR-MORE-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85))"
 
 #
