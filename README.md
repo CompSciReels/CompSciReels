@@ -25,6 +25,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 </p>
 
 ---
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools![image](https://github.com/user-attachments/assets/b2daf6a3-c7b1-437a-83e5-f75e660aa7fe)
+
 
 
