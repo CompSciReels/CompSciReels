@@ -26,7 +26,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 ---
 ### <img src="https://github.com/user-attachments/assets/4d490267-4e4c-417d-b130-acfd0819d559" width="25"/>  
-<img width="30px" style="padding-right: 10px;"/>
+
 ### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
