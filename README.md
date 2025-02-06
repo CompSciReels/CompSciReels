@@ -11,7 +11,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <p align="left">
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
     <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/-Follow-F25278?style=for-the-badge&logo=image-min&logoColor=white)"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
