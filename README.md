@@ -58,5 +58,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <!-- END YOUTUBE-CARDS -->
 
   <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/FOLLOW FOR MORE-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a>
+   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
 
 #
