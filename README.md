@@ -9,7 +9,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 <p align="left">
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
-    <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/Follow%2081.7K-F25278?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+    <img alt="views" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/Follow%2081.7K-F25278?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
     <!-- blank split -->
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
@@ -19,5 +19,8 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
      <!-- blank split -->
   <a href="https://github.com/CompSciReels?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CompSciReels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
- 
+ <!-- blank split -->
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/CompSciReels-profile-views"/></a>
+</p>
+
 
