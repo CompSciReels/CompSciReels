@@ -9,7 +9,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+  <a href="https://www.tiktok.com/@compscireels?lang=en">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
