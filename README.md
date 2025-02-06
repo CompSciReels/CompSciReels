@@ -1,6 +1,6 @@
 # 🖥️ CompSciReels
 
-**`Digital Innovator (Developer/Filmmaker/Creator)`**
+**`Digital Innovator (Developer/Creator)`**
 
 I'm an indie software developer dedicated to spreading the joy of programming worldwide. I create projects in languages like Visual Basic, C++, C#, Java, and Swift. I share all my code on GitHub. Each project inspires a new video that I post on my [TikTok](https://www.tiktok.com/@comp.sci.reels).
 
