@@ -9,7 +9,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 <p align="left">
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
-    <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/Follow-81.7K-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a>
+    <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/Follow-1.2M-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a>
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
     <!-- blank split -->
     <img alt="tiktok views" title="TikTok views" src="https://custom-icon-badges.demolab.com/badge/Views-81.7K-FF9C4D?style=for-the-badge&logo=eye&logoColor=white&labelColor=D97A2B"/></a> 
