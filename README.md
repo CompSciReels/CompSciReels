@@ -51,6 +51,9 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <!-- BEGIN TIKTOK-CARDS -->
 
 [![How much does an app with a million downloads make?](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)]([https://www.youtube.com/watch?v=YouTube_video_ID](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
+
+
+[![How much does an app with a million downloads make?](https://img.youtube.com/vi/YouTube_video_ID/0.jpg)](https://www.youtube.com/watch?v=YouTube_video_ID)
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
