@@ -51,11 +51,11 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <!-- BEGIN TIKTOK-CARDS -->
 [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 <img width="30px" style="padding-right: 10px;"/>
-[<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)
+[<img width="175" src="video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)
 <img width="30px" style="padding-right: 10px;"/>
-[<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)
+[<img width="175" src="video3.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)
 <img width="30px" style="padding-right: 10px;"/>
-[<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
+[<img width="175" src="video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
 
 
 <!-- END YOUTUBE-CARDS -->
