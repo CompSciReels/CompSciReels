@@ -2,7 +2,7 @@
 
 **`Digital Innovator (Developer/Creator)`**
 
-I'm an indie software developer dedicated to spreading the joy of programming worldwide. I create projects in languages like Visual Basic, C++, C#, Java, and Swift. I share all my code on GitHub. Each project inspires a new video that I post on my [TikTok](https://www.tiktok.com/@comp.sci.reels).
+I'm an indie software developer dedicated to spreading the joy of programming worldwide. I create projects and share all my code on GitHub. Each project inspires a new video that I post on my [TikTok](https://www.tiktok.com/@comp.sci.reels).
 
 Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on scholarships, college options, and programming projects.
 <!-- Social badges section -->
