@@ -10,7 +10,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="left">
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
-    <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/?logo=follow%20me%20now"/></a>
+    <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=follow me now"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
