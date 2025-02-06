@@ -1,4 +1,4 @@
-# 👨‍💻 CompSciReels
+# 🖥️ CompSciReels
 
 **`Digital Innovator (Developer/Filmmaker/Creator)`**
 
