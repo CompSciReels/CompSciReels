@@ -6,7 +6,6 @@ I'm an indie software developer dedicated to spreading the joy of programming wo
 
 Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on scholarships, college options, and programming projects.
 <!-- Social badges section -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <p align="left">
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
@@ -18,8 +17,8 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
        <!-- blank split -->
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      <!-- blank split -->
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/CompSciReels?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CompSciReels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
      <!-- blank split -->
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
