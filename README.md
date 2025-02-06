@@ -12,7 +12,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
     <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/Follow-81.7K-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a>
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
     <!-- blank split -->
-    <img alt="tiktok views" title="TikTok views" src="https://custom-icon-badges.demolab.com/badge/Follow-81.7K-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a> 
+    <img alt="tiktok views" title="TikTok views" src="[https://custom-icon-badges.demolab.com/badge/Follow-1.2M-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85](https://custom-icon-badges.demolab.com/badge/Views-81.7K-FF9C4D?style=for-the-badge&logo=eye&logoColor=white&labelColor=D97A2B)"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
        <!-- blank split -->
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CompSciReels?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
