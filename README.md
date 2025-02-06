@@ -48,7 +48,8 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 ### 📱 Greatest TikTok Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- BEGIN TIKTOK-CARDS -->
+[Watch my TikTok video!](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 [![Rust Immutability](https://ytcards.demolab.com/?id=WD6Ub-ensYs&title=Rust+Immutability&lang=en&timestamp=1738774838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "Rust Immutability")](https://www.youtube.com/watch?v=WD6Ub-ensYs)
 [![Why Devs Use Docker](https://ytcards.demolab.com/?id=ngLrCFL2h6U&title=Why+Devs+Use+Docker&lang=en&timestamp=1738602059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "Why Devs Use Docker")](https://www.youtube.com/watch?v=ngLrCFL2h6U)
 [![Rust Borrow Checker](https://ytcards.demolab.com/?id=9rdT4v7gn_Q&title=Rust+Borrow+Checker&lang=en&timestamp=1738515615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61 "Rust Borrow Checker")](https://www.youtube.com/watch?v=9rdT4v7gn_Q)
