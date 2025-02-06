@@ -50,7 +50,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 
 <!-- BEGIN TIKTOK-CARDS -->
 
-[![How much does an app with a million downloads make?](<img width="396" alt="Image" src="video1.png" />)](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
+[![How much does an app with a million downloads make?]<img width="396" src="video1.png" />)](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 
  <img src="video1.png"/></a>
 <!-- END YOUTUBE-CARDS -->
