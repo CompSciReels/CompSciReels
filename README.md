@@ -49,7 +49,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 ### 📱 Favorite TikTok Videos
 
 <!-- BEGIN TIKTOK-CARDS -->
----
 [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 <img width="32px" style="padding-right: 10px;"/>
 [<img width="177" src="Video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)
