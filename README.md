@@ -58,7 +58,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 [<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
 **How much does an app...** <img width="38px" style="padding-right: 10px;"/> **What skills would you...** <img width="49px" style="padding-right: 10px;"/> **I study computer...** <img width="81px" style="padding-right: 10px;"/> 
 **Computer Science is...**
-<br />140.7K views <img width="53px" style="padding-right: 10px;"/> 70.9K views <img width="69px" style="padding-right: 10px;"/> 49.3K views <img width="107px" style="padding-right: 10px;"/> 22K views
+<br />140.7K views <img width="10px" style="padding-right: 30px;"/> 70.9K views <img width="10px" style="padding-right: 30px;"/> 49.3K views <img width="10px" style="padding-right: 30px;"/> 22K views
 
 
 <!-- END YOUTUBE-CARDS -->
