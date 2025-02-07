@@ -69,7 +69,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 [<img width="175" src="Video3.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)
 <img width="32px" style="padding-right: 10px;"/>
 [<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
-<br>How much does an app... <img width="43px" style="padding-right: 10px;"/> What skills would you... <img width="59px" style="padding-right: 10px;"/> I study computer... <img width="59px" style="padding-right: 10px;"/> Computer Science is... 
+<br>How much does an app... <img width="43px" style="padding-right: 10px;"/> What skills would you... <img width="59px" style="padding-right: 10px;"/> I study computer... <img width="89px" style="padding-right: 10px;"/> Computer Science is... 
 
 
 <!-- END YOUTUBE-CARDS -->
