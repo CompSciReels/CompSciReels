@@ -70,15 +70,20 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
       <p>Video 3</p>
   </div>
   <a href="https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610"><img width="175" src="video1.png" /></a>
+  <img width="30px" style="padding-right: 10px;"/>
     <a href="https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323"><img width="175" src="Video2.png" /></a>
+    
 <div style="text-align: center;">
-      <p>Video 3</p> <img width="30px" style="padding-right: 10px;"/>
+      <p>Video 3</p> 
   </div>
-    <a href="https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894"><img width="175" src="Video3.png" /></a>
+  
+   <a href="https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894"><img width="175" src="Video3.png" /></a>
+   
 <div style="text-align: center;">
       <p>Video 4</p>
   </div>
-    <a href="https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642"><img width="175" src="Video4.png" /></a>
+  
+   <a href="https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642"><img width="175" src="Video4.png" /></a>
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
