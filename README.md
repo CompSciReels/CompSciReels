@@ -70,6 +70,8 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <img width="30px" style="padding-right: 10px;"/>
 [<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
 
+<br> <p>Video 3 IM JUST GONNA KEEP TALKING</p> 
+
 ---
   <a href="https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610"><img width="175" src="video1.png" /></a>
     <a href="https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323"><img width="175" src="Video2.png" /></a>
