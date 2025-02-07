@@ -68,7 +68,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
        <a href="https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642"><img width="175" src="Video4.png" /></a>
     
 <div style="text-align: center;">
-      <p>Video 3</p> 
+      <p>Video 3 IM JUST GONNA KEEP TALKING</p> 
   </div>
    
 <div style="text-align: center;">
