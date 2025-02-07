@@ -64,7 +64,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 ---
 [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)
 <img width="30px" style="padding-right: 10px;"/>
-[<img width="174" src="Video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)
+[<img width="177" src="Video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)
 <img width="30px" style="padding-right: 10px;"/>
 [<img width="175" src="Video3.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)
 <img width="30px" style="padding-right: 10px;"/>
