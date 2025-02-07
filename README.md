@@ -62,23 +62,25 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 **Video 4**
 
 ---
-[<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)  
-**Video 1**
+<div style="display: inline-block; text-align: center; margin-right: 20px;">
+    [<img width="175" src="video1.png" />](https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610)  
+    <p>Video 1</p>
+</div>
 
-<img width="30px" style="padding-right: 10px;"/>  
+<div style="display: inline-block; text-align: center; margin-right: 20px;">
+    [<img width="175" src="Video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)  
+    <p>Video 2</p>
+</div>
 
-[<img width="175" src="Video2.png" />](https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323)  
-**Video 2**
+<div style="display: inline-block; text-align: center; margin-right: 20px;">
+    [<img width="175" src="Video3.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)  
+    <p>Video 3</p>
+</div>
 
-<img width="30px" style="padding-right: 10px;"/>  
-
-[<img width="175" src="Video3.png" />](https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894)  
-**Video 3**
-
-<img width="30px" style="padding-right: 10px;"/>  
-
-[<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)  
-**Video 4**
+<div style="display: inline-block; text-align: center;">
+    [<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)  
+    <p>Video 4</p>
+</div>
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
