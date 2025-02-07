@@ -59,11 +59,15 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 **How much does an app...** <img width="38px" style="padding-right: 10px;"/> **What skills would you...** <img width="49px" style="padding-right: 10px;"/> **I study computer...** <img width="81px" style="padding-right: 10px;"/> 
 **Computer Science is...**
 <br />140.7K views <img width="125px" style="padding-right: 30px;"/> 70.9K views <img width="130px" style="padding-right: 30px;"/> 49.3K views <img width="130px" style="padding-right: 30px;"/> 22K views
-
-
 <!-- END YOUTUBE-CARDS -->
 <br />
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
   <img alt="tiktok follower" title="Follow my TikTok channel" src="https://custom-icon-badges.demolab.com/badge/FOLLOW FOR MORE-9B4E97?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=7A3E85"/></a>
   
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
