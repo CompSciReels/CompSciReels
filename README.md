@@ -65,7 +65,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 <div style="text-align: center;">
     <a href="https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610"><img width="175" src="video1.png" /></a>
     <p>Video 1</p>
-</div>
 <div style="text-align: center;">
     <a href="https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323"><img width="175" src="Video2.png" /></a>
     <p>Video 2</p>
