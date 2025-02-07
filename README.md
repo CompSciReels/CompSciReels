@@ -71,19 +71,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
 [<img width="175" src="Video4.png" />](https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642)
 <br>How much does an app... <img width="30px" style="padding-right: 10px;"/> LALALLAA
 
----
-  <a href="https://www.tiktok.com/@comp.sci.reels/video/7316730936979213610"><img width="175" src="video1.png" /></a>
-    <a href="https://www.tiktok.com/@comp.sci.reels/video/7317787545574657323"><img width="175" src="Video2.png" /></a>
-     <a href="https://www.tiktok.com/@comp.sci.reels/video/7311066151625198894"><img width="175" src="Video3.png" /></a>
-       <a href="https://www.tiktok.com/@comp.sci.reels/video/7309083919729593642"><img width="175" src="Video4.png" /></a>
-    <br><p>Video 3 IM JUST GONNA KEEP TALKING</p> 
-<div style="text-align: center;">
-      <p>Video 3 IM JUST GONNA KEEP TALKING</p> 
-  </div>
-   
-<div style="text-align: center;">
-      <p>Video 4</p>
-  </div>
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://www.tiktok.com/@comp.sci.reels?lang=en">
