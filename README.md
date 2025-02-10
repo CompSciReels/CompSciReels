@@ -19,7 +19,6 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
   <a href="https://github.com/CompSciReels?tab=stars">
        <!-- blank split -->
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CompSciReels?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=%20stars%3A%20"/></a> 
-    <!--https://custom-icon-badges.demolab.com/github/stars/CompSciReels?color=55960c&style=for-the-badge&labelColor=488207&logo=star //stars undetected-->
      <!-- blank split -->
   <a href="https://github.com/CompSciReels?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CompSciReels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
