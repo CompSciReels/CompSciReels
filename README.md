@@ -18,7 +18,7 @@ Check out my [Beacons](https://beacons.ai/comp.sci.reels). I offer resources on 
     <img alt="tiktok views" title="TikTok views" src="https://custom-icon-badges.demolab.com/badge/Views-1.2M-FF9C4D?style=for-the-badge&logo=eye&logoColor=white&labelColor=D97A2B"/></a> 
   <a href="https://github.com/CompSciReels?tab=stars">
        <!-- blank split -->
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CompSciReels?color=55960c&style=for-the-badge&labelColor=488207&logo=star" style="padding: 10px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);" />
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CompSciReels?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      <!-- blank split -->
   <a href="https://github.com/CompSciReels?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CompSciReels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
